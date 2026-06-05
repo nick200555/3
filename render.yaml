@@ -1,5 +1,0 @@
-services:
-  - type: static
-    name: Afra
-    staticPublishPath: ./
-    buildCommand: echo "No build needed"
